@@ -1,0 +1,20 @@
+{
+  "name": "inclusion_matters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/communityinclusion/inclusion_matters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/communityinclusion/inclusion_matters/issues"
+  },
+  "homepage": "https://github.com/communityinclusion/inclusion_matters#readme"
+}
